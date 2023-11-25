@@ -1,0 +1,13 @@
+﻿DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>showroom meubles de kélibia en 3D</title>
+        <p>
+            Vitual reality:<br>
+            <img src="C:\Users\GK-S\Desktop\showroom" alt="3D.png " />
+            </p>
+    </head>
+    <body>
+    </body>
+</html>
